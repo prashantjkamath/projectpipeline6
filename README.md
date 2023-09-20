@@ -1,1 +1,3 @@
-# projectpipeline6
+# maven-project
+
+Simple Maven Project
